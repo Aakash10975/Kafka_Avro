@@ -1,0 +1,9 @@
+{"namespace": "aakash",
+ "type": "record",
+ "name": "CreateRequest",
+ "fields": [
+   { "name": "email", "type": "string" },
+   { "name": "firstname", "type": "string" },
+   { "name": "lastname", "type": "string" }
+  ]
+}
